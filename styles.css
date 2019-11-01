@@ -29,6 +29,9 @@ input[type=checkbox] {
 	margin-right: 0;
 }
 
+.social{
+	background-color: wheat;
+}
 .container {
 	background-color: #23235B;
 	box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
@@ -239,6 +242,9 @@ input[type=checkbox] {
 .floating-text a {
 	color: #FF7500;
 	text-decoration: none;
+}
+.fab{
+	font-family: fontawesome !important;
 }
 
 @media screen and (max-width: 480px) {
